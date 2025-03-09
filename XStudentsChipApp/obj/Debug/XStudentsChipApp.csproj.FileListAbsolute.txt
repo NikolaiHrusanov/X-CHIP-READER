@@ -9,3 +9,4 @@ C:\Users\Sava\source\repos\DINDEV-CHIP-PROJECT\XStudents1\XStudentsChipApp\obj\D
 C:\Users\Sava\source\repos\DINDEV-CHIP-PROJECT\XStudents1\XStudentsChipApp\obj\Debug\XStudentsChipApp.exe
 C:\Users\Sava\source\repos\DINDEV-CHIP-PROJECT\XStudents1\XStudentsChipApp\obj\Debug\XStudentsChipApp.pdb
 C:\Users\Sava\source\repos\DINDEV-CHIP-PROJECT\XStudents1\XStudentsChipApp\obj\Debug\XStudentsChipApp.UCReading.resources
+C:\Users\Sava\source\repos\DINDEV-CHIP-PROJECT\XStudents1\XStudentsChipApp\obj\Debug\XStudentsChipApp.UCDownload.resources
