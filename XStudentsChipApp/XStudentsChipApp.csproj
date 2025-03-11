@@ -70,6 +70,18 @@
     <Compile Include="UCReading.Designer.cs">
       <DependentUpon>UCReading.cs</DependentUpon>
     </Compile>
+    <Compile Include="UCUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCUpdate.Designer.cs">
+      <DependentUpon>UCUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCWrite.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCWrite.Designer.cs">
+      <DependentUpon>UCWrite.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -87,6 +99,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UCReading.resx">
       <DependentUpon>UCReading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCUpdate.resx">
+      <DependentUpon>UCUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCWrite.resx">
+      <DependentUpon>UCWrite.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
