@@ -70,6 +70,18 @@
     <Compile Include="UCReading.Designer.cs">
       <DependentUpon>UCReading.cs</DependentUpon>
     </Compile>
+    <Compile Include="UCUpdateRadi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCUpdateRadi.Designer.cs">
+      <DependentUpon>UCUpdateRadi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UCWriteRadi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UCWriteRadi.Designer.cs">
+      <DependentUpon>UCWriteRadi.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -87,6 +99,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UCReading.resx">
       <DependentUpon>UCReading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCUpdateRadi.resx">
+      <DependentUpon>UCUpdateRadi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UCWriteRadi.resx">
+      <DependentUpon>UCWriteRadi.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
